@@ -1,5 +1,8 @@
 # TryAllAPI × WorkBuddy
 
+> **Product README (standalone):** [xianyu110/tryallapi](https://github.com/xianyu110/tryallapi) — this repo is only the WorkBuddy integration guide, not the primary TryAllAPI product page.
+
+
 **Product:** [TryAllAPI](https://tryallapi.com/) (on-site brand: MomoAPI / momoAPIPro) — multi-model AI API gateway.  
 **Base URL (OpenAI-compatible):** `https://tryallapi.com/v1`  
 **Pricing:** USD pay-as-you-go (top-up from ~$1; official list price × group multiplier). See [pricing](https://tryallapi.com/pricing).  
