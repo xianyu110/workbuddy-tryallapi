@@ -1,3 +1,17 @@
+# TryAllAPI × WorkBuddy
+
+**Product:** [TryAllAPI](https://tryallapi.com/) (on-site brand: MomoAPI / momoAPIPro) — multi-model AI API gateway.  
+**Base URL (OpenAI-compatible):** `https://tryallapi.com/v1`  
+**Pricing:** USD pay-as-you-go (top-up from ~$1; official list price × group multiplier). See [pricing](https://tryallapi.com/pricing).  
+**Docs:** [docs.tryallapi.com](https://docs.tryallapi.com/) · [Apifox](https://5oq7d57fbk.apifox.cn)  
+**Contact:** bgnwd15@gmail.com  
+
+> Third-party aggregator — **not** affiliated with OpenAI, Anthropic, or Google. **Never commit API keys.** Model count and prices change; trust the live console.
+
+This repo is a short guide: wire TryAllAPI into WorkBuddy with one Key.
+
+---
+
 # WorkBuddy 接入 tryallapi：一个 Key 用遍 GPT-6、Claude、Gemini，3 分钟配好
 
 WorkBuddy 好用，但默认模型总有不够用的时候：想让 Claude 写代码、Gemini 看图、GPT-6 做长推理，一家一家去开账号、绑海外卡、管一堆 Key，光折腾就把干活的心气耗没了。
